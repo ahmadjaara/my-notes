@@ -22,9 +22,9 @@ since you read until here i will give you  a flower
 
 the good developer seek for simplicity ,he show his intelligence by simplicity 
 
->simplicity means a code that is easy to understand from others, its purpose to help people and its consistance  
+>simplicity means a code that is easy to understand from others, its purpose to help people and its consistance . 
 
-also, he have no proplem to ask for help when he stuck ,also he keep learning and not be bias for any tools 
-he write comment and documentation: comment in order to show why he do this code not what his code mean,ducumentation to describe the full picture of his software to help other understande his work 
+also, he have no proplem to ask for help when he stuck ,also he keep learning and not be bias for any tools ,
+he write comment and documentation: comment in order to show why he do this code not what his code mean,ducumentation to describe the full picture of his software to help other understande his work .
 
-finally he try to divide the proplems and the projects he have to a small tasks and try to solve it task by task and he test each code after writting it  
+finally,he try to divide the proplems and the projects he have to a small tasks and try to solve it task by task and he test each code after writting it . 
